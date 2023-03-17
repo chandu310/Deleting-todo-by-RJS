@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.todo-line {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.para {
+  font-size: 14px;
+  font-weight: 500;
+}
+button {
+  width: 65px;
+  height: 30px;
+  border: solid 1px #ff0b37;
+  color: #ff0b37;
+  margin: 9px;
+  border-radius: 8px;
+}
